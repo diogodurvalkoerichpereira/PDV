@@ -1,0 +1,18 @@
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\bin\Debug\net6.0-windows\PDV - Gestão Comercial.exe
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\bin\Debug\net6.0-windows\PDV - Gestão Comercial.deps.json
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\bin\Debug\net6.0-windows\PDV - Gestão Comercial.runtimeconfig.json
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\bin\Debug\net6.0-windows\PDV - Gestão Comercial.dll
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\bin\Debug\net6.0-windows\PDV - Gestão Comercial.pdb
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.csproj.AssemblyReference.cache
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV___Gestão_Comercial.Form1.resources
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV___Gestão_Comercial.Properties.Resources.resources
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.csproj.GenerateResource.cache
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.AssemblyInfoInputs.cache
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.AssemblyInfo.cs
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.dll
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\refint\PDV - Gestão Comercial.dll
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.pdb
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\PDV - Gestão Comercial.genruntimeconfig.cache
+C:\Users\Diogo\Documents\Git\PDV - Gestão Comercial\obj\Debug\net6.0-windows\ref\PDV - Gestão Comercial.dll
